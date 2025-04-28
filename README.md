@@ -37,13 +37,11 @@ Let's connect and grow together!
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="left">Tools</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-
 <h2 align="left">Some of My Projects</h2>
+
 <h3 align="left">Machine Learning</h3>
 <ul>
   <li>
@@ -56,11 +54,11 @@ Let's connect and grow together!
 <ul>
   <li>
     <b><a href="https://github.com/ManasBhise/Air-Quality-Analysis" target="_blank">Air Quality Analysis</a></b> - 
-    Analysed Air Quality data of India.
+    Analyzed Air Quality data of India.
   </li>
   <li>
     <b><a href="https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis" target="_blank">Indian Traffic Violations Analysis</a></b> - 
-    Analysed Traffic Violations committed in India.
+    Analyzed Traffic Violations committed in India.
   </li>
 </ul>
 
@@ -68,21 +66,21 @@ Let's connect and grow together!
 <ul>
   <li>
     <b><a href="https://github.com/ManasBhise/College-Chatbot" target="_blank">College Chatbot</a></b> - 
-    Developed a chatbot using common colleg queries.
+    Developed a chatbot using common college queries.
   </li>
   <li>
     <b><a href="https://github.com/ManasBhise/Curency-Converter-Chatbot" target="_blank">Currency Converter Chatbot</a></b> - 
-    Developed a chatbot for converting money between different currencies
+    Developed a chatbot for converting money between different currencies.
   </li>
 </ul>
 
 <h2 align="left">Connect with Me</h2>
 
 <p align="left">
-  <a href="www.linkedin.com/in/manas-bhise-3b557a262" target="_blank">
+  <a href="https://www.linkedin.com/in/manas-bhise-3b557a262" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="manasbhise@gmail.com" target="_blank">
+  <a href="mailto:manasbhise@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -91,7 +89,18 @@ Let's connect and grow together!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManasBhise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManasBhise&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<!-- Contribution Radar Chart -->
+<div align="center">
+  <div align="center">
+  
+</div>
+
 </div>
 
 <br>
