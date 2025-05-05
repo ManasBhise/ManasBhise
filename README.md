@@ -40,40 +40,6 @@ Let's connect and grow together!
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h2 align="left">Some of My Projects</h2>
-
-<h3 align="left">Machine Learning</h3>
-<ul>
-  <li>
-    <b><a href="https://github.com/ManasBhise/IPL-Win-Predictor" target="_blank">IPL Win Predictor</a></b> - 
-    Developed a win predictor for IPL.
-  </li>
-</ul>
-
-<h3 align="left">Data Analysis</h3>
-<ul>
-  <li>
-    <b><a href="https://github.com/ManasBhise/Air-Quality-Analysis" target="_blank">Air Quality Analysis</a></b> - 
-    Analyzed Air Quality data of India.
-  </li>
-  <li>
-    <b><a href="https://github.com/ManasBhise/Indian-Traffic-Violations-Analysis" target="_blank">Indian Traffic Violations Analysis</a></b> - 
-    Analyzed Traffic Violations committed in India.
-  </li>
-</ul>
-
-<h3 align="left">Web Development</h3>
-<ul>
-  <li>
-    <b><a href="https://github.com/ManasBhise/College-Chatbot" target="_blank">College Chatbot</a></b> - 
-    Developed a chatbot using common college queries.
-  </li>
-  <li>
-    <b><a href="https://github.com/ManasBhise/Curency-Converter-Chatbot" target="_blank">Currency Converter Chatbot</a></b> - 
-    Developed a chatbot for converting money between different currencies.
-  </li>
-</ul>
-
 <h2 align="left">Connect with Me</h2>
 
 <p align="left">
