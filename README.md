@@ -72,6 +72,3 @@ Let's connect and grow together!
 
 <br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ManasBhise/count.svg?" />
-</div>
