@@ -57,6 +57,12 @@ Let's connect and grow together!
   <a href="mailto:manasbhise@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/manasbhise" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+   <a href="https://leetcode.com/u/manasbhise/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
 </p>
 
 <br>
